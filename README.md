@@ -7,9 +7,11 @@ Midi looks like this in recording software:
 
 <br>
 
-![midi pic](https://github.com/kdlee17/midi_images/assets/139267850/bb346ba0-a4e7-4fcd-aaaa-7d7f796f9ad4)
+<img width="259" alt="Screenshot 2024-05-17 at 3 09 50 PM" src="https://github.com/kdlee17/midi_images/assets/139267850/94ace604-f6da-437d-a205-1ce3af00e829"><br>
 
 <br>
+
+
 
 With midi, notes aren't audio waves but rectangles that you can drag/delete/copy/paste to edit your composition easily. 
 
